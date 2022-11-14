@@ -8,3 +8,5 @@ Output : A .txt file containing the set of all possible primary events in the fi
 
 Assumptions:
     1) The input path is given as a path in a non-Windows filesystem.
+
+mod1
